@@ -4,7 +4,7 @@ A 128x64 I2C OLED driver ported for Mbed.
 ## How to use this library?
 
 ### Step 1: Copy files to your project
-First, download the source code in the [Releases](https://github.com/nep-0/i2c_oled/releases) page.
+First, download the [source code](https://github.com/nep-0/i2c_oled/archive/refs/tags/v1.0.0.zip) in the [Releases](https://github.com/nep-0/i2c_oled/releases) page.
 
 Then, copy `i2c_oled.h`, `i2c_oled.cpp`, `font.h` and `genshin.h` into your project, which is usually at `C:\Users\<username>\Mbed Programs\<projectname>` for Mbed Studio Windows users.
 
@@ -56,4 +56,4 @@ int main() {
 Yes, but it is not recommended. [Genshin Impact](https://ys.mihoyo.com/) is an excellent open-world fantasy game. You should definitely try it.
 
 ### The [Genshin Impact](https://ys.mihoyo.com/) image is so great! How can I use my own image?
-You can download the tutorial on the [Releases](https://github.com/nep-0/i2c_oled/releases) page. It is in Chinese.
+You can download the [tutorial](https://github.com/nep-0/i2c_oled/releases/download/v1.0.0/image-guide.zip) on the [Releases](https://github.com/nep-0/i2c_oled/releases) page. It is in Chinese.
