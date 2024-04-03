@@ -31,6 +31,8 @@ int main() {
 }
 ```
 
+### (Optional) Step 4: Download [Genshin Impact](https://ys.mihoyo.com/)
+
 ## FAQ
 
 ### What if I don't want [Genshin Impact](https://ys.mihoyo.com/) in my program?
@@ -57,3 +59,6 @@ Yes, but it is not recommended. [Genshin Impact](https://ys.mihoyo.com/) is an e
 
 ### The [Genshin Impact](https://ys.mihoyo.com/) image is so great! How can I use my own image?
 You can download the [tutorial](https://github.com/nep-0/i2c_oled/releases/download/v1.0.0/image-guide.zip) on the [Releases](https://github.com/nep-0/i2c_oled/releases) page. It is in Chinese.
+
+### What are the font sizes can I choose from?
+You can choose 8, 12, 16 or 24 for ASCII characters from `' '` to `'~'`.
