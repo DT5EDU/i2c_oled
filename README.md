@@ -1,6 +1,12 @@
 # i2c_oled
 A 128x64 I2C OLED driver ported for Mbed.
 
+## 使用前须知
+**防止有人看不见，屏幕不亮先自己去网上查，不要私信DT5EDU成员问问题。**  
+**请在issue中描述清楚你的问题，大家都可以看得到，DT5EDU没有一对一把你教会的义务。**  
+**报错是用英语写的，请您先自己翻译一下，或者复制报错信息用浏览器搜索一下。**  
+**这个驱动需要用Mbed Studio编译，别用浏览器打开Keil Studio Cloud编译！！！**  
+
 ## How to use this library?
 
 > [!NOTE]
