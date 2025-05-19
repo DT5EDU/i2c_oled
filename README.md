@@ -14,7 +14,7 @@ First, download the [source code](https://github.com/DT5EDU/i2c_oled/archive/ref
 
 Then, copy `i2c_oled.h`, `i2c_oled.cpp`, `font.h` and `genshin.h` into your project, which is usually at `C:\Users\<username>\Mbed Programs\<projectname>` for Mbed Studio Windows users.
 
-### Step 2: Edit `i2c_oled.h` to configure the pins
+### Step 2: Edit `i2c_oled.cpp` to configure the pins
 Edit lines 7 & 8 to the pins you need. Note that you don't have to choose ones that support i2c peripheral. Any GPIO pin will work.
 ```cpp
 DigitalOut OLED_SCL(D3);
